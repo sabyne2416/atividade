@@ -8,12 +8,15 @@ top: 0px;
 background: #FF98CB;
 
 }
+body{
+  background-color: #FFF1FF
+}
 
 #contato{
 position: absolute;
 width: 159px;
 height: 63px;
-left: 1750px;
+left: 1100px;
 top: 100px;
 font-family: 'Kodchasan';
 font-style: normal;
@@ -27,7 +30,7 @@ color: #000000;
 position: absolute;
 width: 400px;
 height: 46px;
-left: 1510px;
+left: 900px;
 top: 100px;
 font-family: 'Kodchasan';
 font-style: normal;
@@ -38,7 +41,7 @@ color: #000000;
 
 }
 
-h1{
+.titulo{
 
   position: absolute;
   width: 441px;
@@ -54,7 +57,7 @@ h1{
 
 }
 
-img{
+.cabeçalho-imagem{
 
   position: absolute;
   width: 192px;
@@ -63,4 +66,67 @@ img{
   top: 15px;
   background: url(borboleta.png);
   border-radius: 99px;
+}
+.sobremim{
+
+position: absolute;
+width: 853px;
+height: 43px;
+left: 100px;
+top: 300px;
+
+font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 65px;
+
+color: #484040;
+}
+.sobremim-2{
+  position: absolute;
+  width: 1072px;
+  height: 59px;
+  left: 100px;
+  top: 400px;
+
+  font-family: 'Kodchasan';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 65px;
+  color: #484040;
+}
+.sobremim-3{
+  position: absolute;
+width: 1310px;
+height: 76px;
+left: 100px;
+top: 500px;
+
+font-family: 'Kodchasan';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 65px;
+
+color: #484040;
+}
+.sobremim-imagem{
+  position: absolute;
+width: 365px;
+height: 250px;
+left: 119px;
+top: 700px;
+background: url(exatas.jpg);
+}
+.sobremim-imagem-2{
+
+  position: absolute;
+  width: 365px;
+  height: 250px;
+  left: 875px;
+  top: 700px;
+
+  background: url(Wilson Joffre.jpg);
 }
